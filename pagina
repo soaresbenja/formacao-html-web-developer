@@ -5,11 +5,46 @@
     <body>
         <h1> Inteligência artificial no cinema </h1>
         <hr>
-        <h2>Índice</h2>
+        <h2 id="inicio">Índice</h2>
+
         <ul>
-            <li><a href="#"> Greve dos atores </a></li>
-            </li>
+            <li><a href="#IA na ficcao">Inteligência artificial na ficção</a></li>        
+            <li><a href="#obras">Obras já realizadas</a></li>        
+            <li><a href="#polemicas">Polêmicas</a></li>        
         </ul>
-        <h2> Greve dos atores</h2>
+
+        <h2 id="IA na ficcao">Inteligência artificial na ficção</h2>
+
+        <small><a href="#inicio">(Voltar)</a></small>
+        <p><img src="herblade.png" alt="HER and Blade Runner" width="700" height="300"><small>(HER 2013) e Blade Runner (2017)</small>
+
+        <p> É inevitável se deparar com o assunto de <i>Inteligência artificial</i> seja nas redes sociais ou na TV</p>
+        <p> Essa nova tecnologia tem sido desenvolvida e implementada na atual geração de forma impressionante, seja em <i>chats</i>, eletrônicos, e no cinema o assunto já foi abordado em algumas obras como <i><strong>HER (2013)</strong> e </i><i><strong>Blade Runner (2017)</strong></i></p>
+
+        <p></p>
+        <p></p>
+        <h2>Obras já realizadas</h2>
+        <small><a href="#inicio">(Voltar)</a></small>
+        <p>Apesar de ser uma novidade para muitos, as <i>IA's</i> já estão sendo usadas em diversos matériais audiovisuais.</p>
+        <p> Não tão atual, vimos algo semelhante em <i><strong>Velozes e Furiosos 7 (2013)</strong></i> após a morte do ator Paul Walker na cena final do filme, em que utilizaram de técnicas de <i>IA's</i> para colocarem sua imagem nela. </p>
+
+        <p><img src="paulwalkervelozes.png" alt="Paulo Walker in Fast and Furious" width="600" height="300" </p>
+
+        <p></p><small>Velozes e Furiosos (2017)</small>
+        <p> Recentemente, vimos o <a href="https://www.youtube.com/watch?v=aMl54-kqphE&ab_channel=VolkswagendoBrasil">comercial</a> da Volkswagen que traz a cantora Maria Rita e de maneira "artificial", sua mãe, a grande cantora e falecida Elis Regina.</p> 
+        <p> A qualidade da realidade é admirável e muitos fãs gostaram da peça ao ponto de se emocionarem</p>
+        <p>Entretanto, surgiram debates acerca do direito de imagem de alguém que já faleceu e não consentiu com o seu uso.</p>
+        
+        <h2> Polêmicas</h2>
+        <small><a href="#inicio">(Voltar)</a></small>
+        <p> Como toda novidade, com ela vem os questionamentos e problemas.</p>
+        <p>Representados pela <strong>SAG-AFRTRA (Sindicato de Atores)</strong>, roteiristas anunciaram greve, além de reivindicarem melhores salários, os profissionais exigem garantias contra uso de Inteligência artificial, os atores de Hollywood se juntaram a esses colegas por motivos semelhantes.</p>
+
+        <p></p> <img src="sagstrike.png" alt="sagstrike" width="600" height="300">
+        <p></p><small>(Variety)</small>
+
+        <p>O ponto principal das reinvidicações se deve pela baixa regularização do uso de <i>IA's</i>, que segundo a <strong>SAG</strong>, tem usado imagens de atores para treinar essas inteligências para futuras produções, sem qualquer consetimento dos profissionais.</p>
+        <p>De fato, há o que se considerar no uso dessa nova tecnologia, que em muito pode ser benéfica no auxílio de filmagens, mas que se exige cuidado e uma maior transparência com as pessoas que já estão no mercado.</p>
+        
     </body>
 </html>
